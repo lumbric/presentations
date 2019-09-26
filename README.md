@@ -1,8 +1,4 @@
-.. |license| image:: https://img.shields.io/github/license/lumbric/presentations.svg
-   :target: https://choosealicense.com/licenses/mit
-   :alt: MIT License
-
-|license|
+[![MIT License](https://img.shields.io/github/license/lumbric/presentations.svg)](https://choosealicense.com/licenses/mit)
 
 # Presentations
 
