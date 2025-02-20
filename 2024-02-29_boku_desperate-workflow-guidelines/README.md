@@ -7,7 +7,7 @@ for your self and others.**
 
 Presentation at the event event of the Data Science @ BOKU initiative with the topic [Reproducible
 Data
-Analysis](https://boku.ac.at/rali/stat/data-science-boku/reproducible-data-analysis-29-feb-2024) on
+Analysis](https://boku.ac.at/nwnr/stat/data-science-boku/data-science-events/reproducible-data-analysis-29-feb-2024) on
 February 29th 2024.
 
 
